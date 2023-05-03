@@ -1,4 +1,4 @@
-<h1 align="center">Hi , Myself Priyesh Chikhaliya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , Myself Jay Sojitra <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Engineer;Problem+Solving;DS%20|%20Algorithms%20|%20OOPS%20;Specialist%20on%20Codewars;5%20Kyu%20on%20Codewars;Always%20learning%20new%20things&size=30&color=5FF729&center=true&width=500&height=50"></a> 
@@ -10,40 +10,39 @@
 
 
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=Priyeshchikhaliya&label=Profile%20views&color=0e75b6&style=plastic" alt="Priyeshchikhaliya" /> 
+	<img src="https://komarev.com/ghpvc/?username=mrjaysojitra&label=Profile%20views&color=0e75b6&style=plastic" alt="mrjaysojitra" /> 
 <!-- 	<a href = "https://commits.top/india.html" target="_blank">
-		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="Priyeshchikhaliya" target="_blank"/> 
+		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="mrjaysojitra" target="_blank"/> 
 	</a> -->
 </p>
 
 ## :sassy_man:  About me
-- :school: I am a `Software Engineer`, Currently working at Drevol Software LLP
+- :school: I am a `Full Stack Developer`, Currently working at Pyramid PVT LTD
 - :technologist: I love  `Problem Solving`
 - :computer: I am a competitive programmer mainly at `Codewars`
-- :thinking: This is [MY RESUME](https://drive.google.com/file/d/12v4hxIjEFhxPIo-1rhkWYFmC_jpE2OjV/view?usp=share_link).
 - :nerd_face: `Eager to learn new things`
 <br></br>
 ##  Github Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Priyeshchikhaliya&show_icons=true&theme=vuw&hide=prs,contribs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrjaysojitra&show_icons=true&theme=vuw&hide=prs,contribs)
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyeshchikhaliya&theme=algolia" alt="Priyeshchikhaliya" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mrjaysojitra&theme=algolia" alt="mrjaysojitra" /></p>
 <br>
 
 
 ## 👀 My Competitive Programming Profiles
 
 <p align="center" >
-  <a href="https://www.codewars.com/users/Priyeshchikhaliya"><img src="https://miro.medium.com/max/880/1*0pLbHKAulWnsx4U2MQyn2w.png" alt="Codewars" height=150/></a>
+  <a href="https://www.codewars.com/users/mrjaysojitra"><img src="https://miro.medium.com/max/880/1*0pLbHKAulWnsx4U2MQyn2w.png" alt="Codewars" height=150/></a>
 </p>
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 <p align="center">
-	<a href="mailto:ppriyesh61@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/Priyeshchikhaliya"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="mailto:jaysojitra0401@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://github.com/mrjaysojitra"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="https://wa.me/qr/7ZBX5UZVBNURM1"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
-	<a href="https://www.linkedin.com/in/priyesh-chikhaliya-a11753151"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://www.linkedin.com/in/jay-sojitra-94039a235/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
 </p>
 
@@ -90,8 +89,8 @@
     <a href="https://git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
   &emsp;
     <a href="https://github.com/"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
-  &emsp;
-    <a href="https://stackoverflow.com/users/11805091/priyesh-patel"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"></a>   
+  <!-- &emsp; -->
+    <!-- <a href="https://stackoverflow.com/users/11805091/priyesh-patel"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"></a>    -->
    &emsp;
     <a href="https://www.json.org/json-en.html"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a> 
   &emsp;
@@ -117,7 +116,7 @@
  
 <p align="center">
   &emsp;
-    <a href="https://www.codewars.com/users/Priyeshchikhaliya"><img alt = "Codewars" src="https://img.shields.io/badge/Codewars-5%20KYU-orange?style=plastic&logo=appveyor" /></a>
+    <a href="https://www.codewars.com/users/mrjaysojitra"><img alt = "Codewars" src="https://img.shields.io/badge/Codewars-5%20KYU-orange?style=plastic&logo=appveyor" /></a>
 &emsp;
     <a href="#"><img alt = "Leetcode" src="https://img.shields.io/badge/leetcode%20-%23FFA116.svg?style=plastic&logo=leetcode&logoColor=black" /></a>
 <!--   &emsp;
@@ -139,13 +138,13 @@
 
 ## Recent Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyeshchikhaliya&hide=jupyter%20notebook&hide_title=true)](https://github.com/Priyeshchikhaliya/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrjaysojitra&hide=jupyter%20notebook&hide_title=true)](https://github.com/mrjaysojitra/github-readme-stats)
 
 
 ## All Languages So Far
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyeshchikhaliya&hide_title=true)](https://github.com/Priyeshchikhaliya/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrjaysojitra&hide_title=true)](https://github.com/mrjaysojitra/github-readme-stats)
 <br></br>
 <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/Priyeshchikhaliya"><img alt="Priyesh Chikhaliya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Priyeshchikhaliya&custom_title=Priyesh%20Chikhaliya's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/mrjaysojitra"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mrjaysojitra&custom_title=Jay%Sojitra%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
