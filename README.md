@@ -17,7 +17,7 @@
 </p>
 
 ## :sassy_man:  About me
-- :school: I am a `Full Stack Developer`, Currently working at Pyramid PVT LTD
+- :school: I am a `Full Stack Developer`.
 - :technologist: I love  `Problem Solving`
 - :computer: I am a competitive programmer mainly at `Codewars`
 - :nerd_face: `Eager to learn new things`
